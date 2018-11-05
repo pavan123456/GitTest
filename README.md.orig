@@ -3,13 +3,9 @@ Git Testing Repository
 #This is the First Commit
 Feature2
 
-<<<<<<< HEAD
 #inserting with merge commit
 Feature3
 
 #Commit from master 
 
 #CherryPick Test Commit
-=======
-#Git commit from Feature1 branch 
->>>>>>> From Git Feature1
