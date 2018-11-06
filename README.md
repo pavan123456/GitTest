@@ -9,12 +9,6 @@ Feature3
 #Commit from master 
 
 #CherryPick Test Commit
-<<<<<<< HEAD
-
-#inserted from feature2 branch
-
-#senecaGlobal
-=======
 
 #inserted from feature2 branch
 
