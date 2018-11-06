@@ -16,9 +16,8 @@ Feature3
 
 #senecaGlobal
 =======
-=======
-#Git commit from Feature1 branch
 
-#Commit from GitBranch 
->>>>>>> third commit
+#inserted from feature2 branch
+
+#senecaGlobal
 >>>>>>> third commit
