@@ -3,13 +3,22 @@ Git Testing Repository
 #This is the First Commit
 Feature2
 
-<<<<<<< HEAD
 #inserting with merge commit
 Feature3
 
 #Commit from master 
 
 #CherryPick Test Commit
+
+<<<<<<< HEAD
+#inserted from feature2 branch
+
+#senecaGlobal
+
+#new insert for rebase testing
+
+# Boy October issue
+
 =======
-#Git commit from Feature1 branch 
->>>>>>> From Git Feature1
+#October 6th commit
+>>>>>>> refs/remotes/origin/master

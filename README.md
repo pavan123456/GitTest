@@ -10,7 +10,7 @@ Feature3
 
 #CherryPick Test Commit
 
-#inserted from feature2 branch
+#October 6th commit
 
 #senecaGlobal
 
